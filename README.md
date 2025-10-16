@@ -34,29 +34,29 @@ Proyecto_final/
 
 — datos_brutos/
 
-— ai_global_index_db.csv
+    — ai_global_index_db.csv
 
-— ai_job_dataset.csv
+    — ai_job_dataset.csv
 
 — datos_procesados/
 
-— ai_global_index_limpio.csv
+    — ai_global_index_limpio.csv
 
-— ai_job_dataset_limpio.csv
+    — ai_job_dataset_limpio.csv
 
-— ai_merged_limpio.csv
+    — ai_merged_limpio.csv
 
-— correlaciones_previas.csv
+    — correlaciones_previas.csv
 
-— paises_sin_coincidencia.csv
+    — paises_sin_coincidencia.csv
 
 — notebook/
 
-— notebook_proyecto_final.ipynb
+    — notebook_proyecto_final.ipynb
 
 — dashboard/
 
-— excel ai.merged_limpio.xlsx
+    — excel ai.merged_limpio.xlsx
 
 ## 🖥️ Instalación y Requisitos
 
