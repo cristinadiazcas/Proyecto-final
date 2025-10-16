@@ -4,7 +4,7 @@
 
 ### 🗒️ Descripción del proyecto y objetivo
 
-Este trabajo constituye la entrega final del curso de Data Analytics. Este proyecto tiene como objetivo demostrar la capacidad de aplicación de los conceptos teóricos aprendidos en los diferentes módulos, como Python, el proceso a seguir para realizar un análisis EDA y la creación de tablas dinámicas y Dashboards en Excel o Google Sheets, entre otros.
+Este trabajo constituye la entrega final del curso de Data Analytics. El proyecto tiene como objetivo demostrar la capacidad de aplicación de los conceptos teóricos aprendidos en los diferentes módulos, como Python, el proceso a seguir para realizar un análisis EDA y la creación de tablas dinámicas y Dashboards en Excel o Google Sheets, entre otros.
 
 El proyecto analiza un dataset combinando dos fuentes de datos diferentes, con el objetivo de analizar el mercado laboral global relacionado con Inteligencia Artificial (IA) y su relación con el nivel de desarrollo de la IA en diferentes países. Las fuentes de datos son las siguientes:
 
@@ -80,7 +80,8 @@ Proyecto_final/
 1. Salario medio global: 116.800 USD
 2. Rango de salarios: entre 40.000 y 400.000 USD
 3. Regiones con mayor media salarial: (1) América, (2) Europa, (3) Asia-Pacífico, (4) Oriente Medio
-4. A pesar de que la correlación observada es débil, las métricas del AI Global Index con mayor correlación con el nivel salarial es el talento, seguido de la investigación y la infraestructura.
+4. Roles más frecuentes: Data Scientist, AI Engineer, ML Specialist.
+5. A pesar de que la correlación observada es débil, las métricas del AI Global Index con mayor correlación con el nivel salarial son el talento, seguido de la investigación y la infraestructura.
 
 ### Conclusiones
 
